@@ -28,7 +28,7 @@ public class Program8 {
         List<Employee> list = new ArrayList<>();
 
         for (int i = 0; i < numEmployee; i++) {
-            System.out.println("Emplyoee #" + (i + 1));
+            System.out.println("Employee #" + (i + 1));
             System.out.print("ID: ");
             int ID = sc.nextInt();
             sc.nextLine();
